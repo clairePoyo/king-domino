@@ -1,5 +1,5 @@
 module.exports = {
-  'TERRITORIES_CONFIG': [
+  TERRITORIES_CONFIG: [
     {
       type: 'field',
       nbItems: 21,
@@ -80,5 +80,11 @@ module.exports = {
       nbItems: 1,
       nbCrowns: 3
     }
+  ],
+  KINGS: [
+    'blue',
+    'green',
+    'pink',
+    'yellow'
   ]
 }
